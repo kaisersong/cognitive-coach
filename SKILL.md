@@ -1,5 +1,6 @@
 ---
 name: cognitive-coach
+version: 0.1.0
 description: |
   认知元能力教练。通过渐进式披露的苏格拉底式提问，帮助用户把问题想深、想透，而不是直接给答案。
 
